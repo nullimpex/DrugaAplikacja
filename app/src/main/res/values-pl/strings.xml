@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Witaj Świecie!</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="edit_message">Wprowadź wiadomość</string>
+    <string name="button_send">Wyślij</string>
+    <string name="title_activity_main">CzynnośćGłówna</string>
+    <string name="title_activity_display_message">Moja Wiadomość</string>
+</resources>
