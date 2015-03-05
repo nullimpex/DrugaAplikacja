@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('jeromq-0.3.4.jar'))

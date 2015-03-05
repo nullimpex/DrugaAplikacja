@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven Bundle Plugin
+Built-By: tbernard
+Build-Jdk: 1.7.0_55
+Bnd-LastModified: 1400165398551
+Bundle-Description: Pure Java implementation of libzmq
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.html
+Bundle-ManifestVersion: 2
+Bundle-Name: JeroMQ
+Bundle-SymbolicName: org.zeromq.jeromq
+Bundle-Version: 0.3.4
+Export-Package: org.zeromq;uses:=zmq;version="0.3.4",zmq;version="0.3.4"
+Tool: Bnd-1.50.0
+
